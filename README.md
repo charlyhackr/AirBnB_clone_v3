@@ -217,7 +217,7 @@ github repo
 * Kimberly Wong, [kjowong](https://github.com/kjowong) | [@kjowong](https://twitter.com/kjowong) | [kjowong@gmail.com](kjowong@gmail.com)
 * Carrie Ybay, [hicarrie](https://github.com/hicarrie) | [@hicarrie_](https://twitter.com/hicarrie_)
 * Jared Heck, [jarehec](https://github.com/jarehec) | [@jarehec](https://twitter.com/jarehec)
-
+* Carlos Alvarez [charlyhackr](https://github.com/charlyhackr) | [@charlyhackr](https://https://twitter.com/charlyhackr) | [930@holbertonschool.com](930@holbertonschool.com)
 ## License
 
 MIT License
