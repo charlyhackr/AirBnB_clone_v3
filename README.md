@@ -217,7 +217,8 @@ github repo
 * Kimberly Wong, [kjowong](https://github.com/kjowong) | [@kjowong](https://twitter.com/kjowong) | [kjowong@gmail.com](kjowong@gmail.com)
 * Carrie Ybay, [hicarrie](https://github.com/hicarrie) | [@hicarrie_](https://twitter.com/hicarrie_)
 * Jared Heck, [jarehec](https://github.com/jarehec) | [@jarehec](https://twitter.com/jarehec)
-* Carlos Alvarez [charlyhackr](https://github.com/charlyhackr) | [@charlyhackr](https://https://twitter.com/charlyhackr) | [930@holbertonschool.com](930@holbertonschool.com)
+* Carlos Alvarez [charlyhackr](https://github.com/charlyhackr) | [@charlyhackr](twitter.com/charlyhackr)
+* Edgar Miguel Rodriguez G. [Miguelro123](https://github.com/Miguelro123) | [@Migue65007333](twitter.com/Migue65007333)
 ## License
 
 MIT License
