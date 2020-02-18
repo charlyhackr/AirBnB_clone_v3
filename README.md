@@ -218,7 +218,7 @@ github repo
 * Carrie Ybay, [hicarrie](https://github.com/hicarrie) | [@hicarrie_](https://twitter.com/hicarrie_)
 * Jared Heck, [jarehec](https://github.com/jarehec) | [@jarehec](https://twitter.com/jarehec)
 * Carlos Alvarez [charlyhackr](https://github.com/charlyhackr) | [@charlyhackr](https://twitter.com/charlyhackr)
-* Edgar Miguel Rodriguez G. [Miguelro123](https://github.com/Miguelro123) | [@Migue65007333](twitter.com/Migue65007333)
+* Edgar Miguel Rodriguez G. [Miguelro123](https://github.com/Miguelro123) | [@Migue65007333](https://twitter.com/Migue65007333)
 ## License
 
 MIT License
